@@ -13,6 +13,6 @@
 
 ### 🚀 Featured Projects  
 - [BoboConfig](https://github.com/BoboLaboratories/BoboConfig) - A thread-safe YAML configuration library with reload and auto-save capabilities.
-- [SO Lab](https://github.com/BoboLaboratories/SO-Lab) - University project, part of the Operating Systems course.  
-- [LFT Lab](https://github.com/BoboLaboratories/LFT-Lab) - University project, part of the Formal Languages and Compilers course.
 - [Prog III Lab](https://github.com/fabionebbia/prog3) - University project, part of the Programming III course.
+- [LFT Lab](https://github.com/BoboLaboratories/LFT-Lab) - University project, part of the Formal Languages and Compilers course.
+- [SO Lab](https://github.com/BoboLaboratories/SO-Lab) - University project, part of the Operating Systems course.
