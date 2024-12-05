@@ -7,7 +7,7 @@
 ### 📖 About Me  
 🛠️ I work mainly with Elixir, Java, TailwindCSS and AlpineJS.  
 🎓 Information Technology student @ [Università degli Studi di Torino](https://www.unito.it).  
-🌱 I’m currently learning Docker and caring for bonsai.  
+🌱 I’m currently learning Docker and how to care for bonsai.  
 💬 I enjoy programming, psychology and botany.  
 <br>
 
