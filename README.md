@@ -1,8 +1,7 @@
-## 👋 Hi, I’m Fabio!  
+# 👋 Hi, I’m Fabio!  
 💻 Full Stack Developer  
 📍 Currently based in Italy 🇮🇹  
 🎯 Current Goal: mastering [Elixir](https://elixir-lang.org) by crafting elegant and scalable solutions  
-
 <br>
 
 ### 📖 About Me  
@@ -10,7 +9,6 @@
 🎓 Information Technology student @ [Università degli Studi di Torino](https://www.unito.it).  
 🌱 I’m currently learning Docker and caring for bonsai.  
 💬 I enjoy programming, psychology and botany.  
-
 <br>
 
 ### 🚀 Featured Projects  
